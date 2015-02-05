@@ -17,4 +17,4 @@ With CocoaPods up and running go to the application folder and install dependenc
 $ cd RESTKitTutorial
 $ pod install
 ```
-Use Articles.xcworkspace to open the project.
+Use `Articles.xcworkspace` to open the project.
