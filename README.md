@@ -3,7 +3,7 @@ Final project from "RESTKit Tutorial: how to fetch data from a RESTful API into 
 
 https://medium.com/ios-os-x-development/restkit-tutorial-how-to-fetch-data-from-an-api-into-core-data-9326af750e10
 
-##Installation
+## Installation
 
 Don't forget to install pods. 
 
